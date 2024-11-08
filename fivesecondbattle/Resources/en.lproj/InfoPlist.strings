@@ -1,0 +1,10 @@
+/* 
+  InfoPlist.strings
+  fivesecondbattle
+
+  Created by  mac on 20.08.2023.
+  
+*/
+
+CFBundleDisplayName = "Five seconds";
+NSUserTrackingUsageDescription = "Can we use your activity data? If you allow it, ads here and in other apps will be more relevant.";
